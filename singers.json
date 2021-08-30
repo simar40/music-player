@@ -1,0 +1,28 @@
+{
+	"singers": [{
+			"name": "Sonu Nigam",
+			"photo": "https://c.saavncdn.com/artists/Sonu_Nigam_500x500.jpg"
+		},
+		{
+			"name": "Shaan",
+			"photo": "https://c.saavncdn.com/artists/Shaan_500x500.jpg"
+		},
+		{
+			"name": "Neha kakkar",
+			"photo": "https://c.saavncdn.com/artists/Neha_Kakkar_500x500.jpg"
+		},
+		{
+			"name": "Sunidhi chauhan",
+			"photo": "https://c.saavncdn.com/artists/Sunidhi_Chauhan_500x500.jpg"
+		},
+		{
+			"name": "Badshah",
+			"photo": "https://c.saavncdn.com/artists/Badshah_004_20191118143638_500x500.jpg"
+		},
+		{
+			"name": "Diljit Dosanjh",
+			"photo": "https://c.saavncdn.com/artists/Diljit_Dosanjh_500x500.jpg"
+		}
+
+	]
+}
